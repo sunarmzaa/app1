@@ -95,7 +95,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Test 2",
       home: Scaffold(
-        appBar: AppBar(title: Text("Pheeraphon")),
+        appBar: AppBar(title: Text("Pheeraphon ")),
         backgroundColor: Colors.white,
         body: ListView(children: <Widget>[
           headerSection,
